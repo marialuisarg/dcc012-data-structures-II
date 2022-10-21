@@ -1,3 +1,0 @@
-#cmakedefine CPU_TIME
-#cmakedefine INPUT_DIR "@INPUT_DIR@"
-#cmakedefine OUTPUT_DIR "@OUTPUT_DIR@"
